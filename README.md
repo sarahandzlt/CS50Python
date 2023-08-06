@@ -1,2 +1,2 @@
 # CS50Python
-The professor is Prof. David Malan
+The lesson is Prof. David Malan
